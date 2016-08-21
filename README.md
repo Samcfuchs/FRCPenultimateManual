@@ -13,6 +13,6 @@ To contribute:
 * Edit as needed.
 * Make a pull request detailing your changes.
 
-Lisense(?) : Share, have fun!  Content is copyright their respective owners.
+License(?) : Share, have fun!  Content is copyright their respective owners.
 
 \#TSMIFD
